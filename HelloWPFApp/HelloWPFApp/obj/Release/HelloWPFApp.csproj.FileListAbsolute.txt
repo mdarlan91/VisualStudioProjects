@@ -1,0 +1,14 @@
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\HelloWPFApp\HelloWPFApp\bin\Release\HelloWPFApp.exe.config
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\HelloWPFApp\HelloWPFApp\bin\Release\HelloWPFApp.exe
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\HelloWPFApp\HelloWPFApp\bin\Release\HelloWPFApp.pdb
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\HelloWPFApp\HelloWPFApp\obj\Release\Greetings.g.cs
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\HelloWPFApp\HelloWPFApp\obj\Release\App.g.cs
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\HelloWPFApp\HelloWPFApp\obj\Release\HelloWPFApp_MarkupCompile.cache
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\HelloWPFApp\HelloWPFApp\obj\Release\HelloWPFApp_MarkupCompile.lref
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\HelloWPFApp\HelloWPFApp\obj\Release\Greetings.baml
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\HelloWPFApp\HelloWPFApp\obj\Release\HelloWPFApp.g.resources
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\HelloWPFApp\HelloWPFApp\obj\Release\HelloWPFApp.Properties.Resources.resources
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\HelloWPFApp\HelloWPFApp\obj\Release\HelloWPFApp.csproj.GenerateResource.cache
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\HelloWPFApp\HelloWPFApp\obj\Release\HelloWPFApp.csproj.CoreCompileInputs.cache
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\HelloWPFApp\HelloWPFApp\obj\Release\HelloWPFApp.exe
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\HelloWPFApp\HelloWPFApp\obj\Release\HelloWPFApp.pdb
