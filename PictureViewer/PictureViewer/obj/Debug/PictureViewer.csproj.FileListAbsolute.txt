@@ -1,0 +1,10 @@
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe.config
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.exe
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\PictureViewer\PictureViewer\bin\Debug\PictureViewer.pdb
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csprojResolveAssemblyReference.cache
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Properties.Resources.resources
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.GenerateResource.cache
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.csproj.CoreCompileInputs.cache
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.exe
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.pdb
+C:\Users\michael.darlan\Desktop\VisualStudio\Projects\PictureViewer\PictureViewer\obj\Debug\PictureViewer.Form1.resources
